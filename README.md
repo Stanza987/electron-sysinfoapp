@@ -6,7 +6,7 @@ This project is the result of my code-along at the end of the video [An Intro To
 </p>
 
 ## Versions Used
-* Node v9.3.0
+* Node v9.4.0
 * Electron v1.7.10
 
 ## Installing the Project
